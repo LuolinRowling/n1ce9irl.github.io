@@ -4,7 +4,7 @@
 
 # Site
 title: 罗琳姐姐
-subtitle:
+subtitle: 武元炜是傻逼
 description:
 author: John Doe
 language:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
