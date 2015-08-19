@@ -113,6 +113,7 @@ ol {
 }
 ul {
   list-style: none;
+  padding-left: 10px;
 }
 input,
 button {
@@ -137,7 +138,7 @@ body,
   height: 100%;
 }
 body {
-  font-family: "微软雅黑", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   background: #fff;
   color: rgba(0,0,0,0.6);
@@ -163,6 +164,7 @@ h6 {
   font-size: 1em;
 }
 a {
+  font-family: "Microsoft YaHei", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-decoration: none;
   outline-width: 0;
   color: #258fb8;
@@ -471,7 +473,7 @@ a {
 .header-author {
   text-align: center;
   margin: 0.67em 0;
-  font-family: Roboto, "Roboto", serif;
+  font-family: "Microsoft Yahei", Roboto, "Roboto", serif;
   font-size: 30px;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
