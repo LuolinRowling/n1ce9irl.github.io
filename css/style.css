@@ -282,12 +282,6 @@ ss
   #container #header .header-nav {
     position: relative;
   }
-  #container .header-author.fixed {
-    position: fixed;
-    top: -13px;
-    width: 100%;
-    color: #ddd;
-  }
   #container .overlay .slider-trigger {
     display: none;
     position: absolute;
